@@ -8,7 +8,7 @@
 
   <br/>
 
-  [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Live_Site-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+  [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Live_Site-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://kevin-ishimwe.vercel.app/)
   [![Hire Me](https://img.shields.io/badge/%F0%9F%93%A7_Hire_Me-Email_Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishimwekevin2007@gmail.com)
   [![WhatsApp](https://img.shields.io/badge/%F0%9F%92%AC_WhatsApp-Contact_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/250729597767)
 </div>
