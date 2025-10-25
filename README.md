@@ -1,10 +1,10 @@
-# 💫 Kevin Ishimwe | Full-Stack Developer
+# 💫 Kevin Ishimwe | Full-Stack Developer (MERN & Python)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2BC0E4,100:EAECC6&height=200&section=header&text=Kevin%2520Ishimwe&fontSize=50&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Kevin Ishimwe">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2BC0E4,100:EAECC6&height=200&section=header&text=Kevin%20Ishimwe&fontSize=50&fontAlign=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff" alt="Kevin Ishimwe GitHub Profile Header">
 
-  <h3><strong>Crafting Digital Experiences | Web & Mobile Solutions</strong></h3>
-  Turning ideas into scalable, high-performance applications
+  <h3><strong>Building Scalable Web & Mobile Solutions | MERN Stack & Python Developer</strong></h3>
+  Turning ideas into secure, high-performance digital products
 
   <br/>
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Kevin Ishimwe — Full-Stack Developer (React, Node.js, MongoDB, Python)
 
 <div align="center">
 
@@ -23,19 +23,21 @@ _"Code is poetry, and I'm writing the next chapter of digital innovation."_
 
 </div>
 
-I'm a passionate **Full-Stack Developer** with **3+ years of experience** crafting robust web and mobile applications.  
-Based in **Kigali, Rwanda 🇷🇼**, I specialize in transforming complex problems into elegant, user-centric solutions.
+I’m a **Full-Stack Software Developer** based in **Kigali, Rwanda 🇷🇼**, with **3+ years of experience** building production-grade **web and mobile applications**.  
+My focus areas include **MERN Stack (MongoDB, Express.js, React, Node.js)**, **Python-based backends**, and **cloud-integrated DevOps solutions**.  
+I specialize in designing **responsive UIs**, building **secure REST APIs**, and deploying **scalable applications** on AWS and Vercel.
 
 ### 🎯 Quick Facts
 - 🌍 **Location:** Kigali, Rwanda  
-- 💻 **Experience:** 3+ Years in Web & Mobile Development  
+- 💻 **Experience:** 3+ Years in Full-Stack Web & Mobile Development  
+- 🧠 **Core Expertise:** MERN Stack, Python, REST APIs, Cloud Deployment  
 - 🛠 **Projects Completed:** 15+  
 - 🏆 **Certifications:** 5+ Professional Certifications  
-- 🌐 **Status:** Open for Remote Work & Freelance Projects  
+- 🌐 **Status:** Open for Remote & Freelance Opportunities  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills & Tools
 
 ### 🖥️ Frontend Development
 <div align="center">
@@ -81,34 +83,35 @@ Based in **Kigali, Rwanda 🇷🇼**, I specialize in transforming complex probl
 
 ---
 
-## 💼 Featured Projects
+## 💼 Featured Projects (SEO-Optimized)
 
-### 🚀 Real-Time Applications
+### 🚀 Real-Time & Cloud Applications
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **DevChat** | Real-time chat app with instant messaging & authentication | React, Node.js, Socket.io, MongoDB | ✅ Live |
-| **Akagera AI Assistant** | Web app assisting tours in Akagera National Park | React, Node.js, MongoDB, Python | 🔄 In Development |
+| **DevChat – Real-Time MERN Chat App** | Full-stack chat platform with instant messaging, authentication, and WebSocket integration | React, Node.js, Socket.io, MongoDB | ✅ Live |
+| **Akagera AI Assistant** | Smart tourism guide for Akagera National Park powered by AI and Python backend | React, Node.js, MongoDB, Python | 🔄 In Development |
 
-### 🛒 E-Commerce & Platforms
+### 🛒 E-Commerce & Business Platforms
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **E-Commerce Platform** | Full-stack e-commerce solution with payment integration | React, Node.js, PostgreSQL, Stripe | ✅ Live |
-| **Cunga App** | Mobile & web platform for cross-platform services | React Native, Flutter, Firebase | ✅ Live |
+| **E-Commerce Platform (Full-Stack)** | Secure e-commerce platform with cart, payment integration, and admin panel | React, Node.js, PostgreSQL, Stripe | ✅ Live |
+| **Cunga App – Cross-Platform Services** | Mobile & web app for service delivery management | React Native, Flutter, Firebase | ✅ Live |
 
-### 🏢 Enterprise & Management
+### 🏢 Enterprise & Management Systems
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **Exseede** | Backend development at Exseede, scalable solutions & APIs | Node.js, Python, AWS | ✅ Completed |
-| **Ikibina Management System** | Management system for community organizations | React, Node.js, MongoDB, Flutter | ✅ Live |
+| **Exseede API Services** | Backend and API design for enterprise automation and cloud scalability | Node.js, Python, AWS | ✅ Completed |
+| **Ikibina Management System** | Community management web app for local organizations | React, Node.js, MongoDB, Flutter | ✅ Live |
 
-### 🤝 Social Impact
+### 🌍 Social Impact Projects
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **Helping Hands Rwanda** | NGO website focused on community development | Web Design, Social Impact | ✅ Live |
+| **Helping Hands Rwanda NGO Website** | Nonprofit platform promoting community development initiatives | React, CSS, Web Design | ✅ Live |
 
 ---
 
 ## 📈 GitHub Analytics
+
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishimwe-Kevin&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
@@ -120,6 +123,7 @@ Based in **Kigali, Rwanda 🇷🇼**, I specialize in transforming complex probl
 ---
 
 ## 🏆 Achievements
+
 <div align="center">
 
 ![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-5_Certifications-blue?style=for-the-badge&logo=certificate)
@@ -130,7 +134,8 @@ Based in **Kigali, Rwanda 🇷🇼**, I specialize in transforming complex probl
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Kevin Ishimwe
+
 <div align="center">
 
 ### 💼 Professional Networks  
@@ -141,7 +146,7 @@ Based in **Kigali, Rwanda 🇷🇼**, I specialize in transforming complex probl
 ### 📬 Direct Contact  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishimwekevin2007@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/250729597767)
-[![Location](https://img.shields.io/badge/Location-Kigali,_Rwanda-red?style=for-the-badge&logo=map-marker&logoColor=white)](https://www.google.com/maps/place/Kigali)
+[![Location](https://img.shields.io/badge/Location-Kigali,_Rwanda-red?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Kigali)
 
 </div>
 
@@ -150,8 +155,8 @@ Based in **Kigali, Rwanda 🇷🇼**, I specialize in transforming complex probl
 <div align="center">
 
 🎯 **Currently Available For:**  
-- Remote Full-Stack Positions  
-- Freelance Projects  
+- Remote Full-Stack Developer Roles  
+- Freelance Web & Mobile Projects  
 - Technical Consulting  
 - Open Source Collaboration  
 
@@ -161,10 +166,16 @@ Based in **Kigali, Rwanda 🇷🇼**, I specialize in transforming complex probl
 
 <br/>
 
-Thank you for visiting my profile!  
-**Let's build something amazing together 🚀**
+**Thank you for visiting my GitHub profile!**  
+Let’s collaborate and build impactful digital products 🚀
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2BC0E4,100:EAECC6&height=100&section=footer&animation=fadeIn" alt="footer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2BC0E4,100:EAECC6&height=100&section=footer&animation=fadeIn" alt="Kevin Ishimwe GitHub Footer">
 </div>
+
+---
+
+<p align="center">
+  <b>SEO Keywords:</b> Full-Stack Developer • MERN Stack • React • Node.js • MongoDB • Python • REST API • Web Development • Kigali Rwanda • Cloud Developer
+</p>
